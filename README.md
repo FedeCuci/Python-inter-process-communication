@@ -1,1 +1,1 @@
-# Python-inter-process-communication
+# Python-inter-process-communication between multiple scripts
